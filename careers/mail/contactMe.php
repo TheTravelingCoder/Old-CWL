@@ -25,7 +25,7 @@ try {
    $mail->setFrom('chinookw@webserver3.pebblehost.com', 'Careers');
 
    /* Add a recipient. */
-   $mail->addAddress('richards.kevin93@gmail.com', 'Kevin');
+   $mail->addAddress('CWLCheckCall@gmail.com', 'CheckCall');
 
    /* Set the subject. */
    $mail->Subject = "New Job Applicant";

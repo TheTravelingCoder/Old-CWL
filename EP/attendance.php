@@ -3,9 +3,6 @@
 ?>
 <!DOCTYPE html>
 
-
-<!-- to run the php "cd C:\Users\Kevin Richards\Desktop\Chinook Website"
-     Then php -S localhost:8000-->
 <html lang="en">
 
 <head>
